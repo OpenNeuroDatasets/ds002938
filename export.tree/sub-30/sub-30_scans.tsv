@@ -1,7 +1,0 @@
-filename	acq_time	operator	randstr
-anat/sub-30_T1w.nii.gz	2018-08-22T16:37:51	Achten^Eric L J	8c91e1c2
-fmap/sub-30_magnitude1.nii.gz	2018-08-22T16:39:46	Achten^Eric L J	4b5eb9f1
-fmap/sub-30_magnitude2.nii.gz	2018-08-22T16:39:46	Achten^Eric L J	4b5eb9f1
-fmap/sub-30_phasediff.nii.gz	2018-08-22T16:39:46	Achten^Eric L J	754b11a4
-func/sub-30_task-effort_bold.nii.gz	2018-08-22T16:41:33	Achten^Eric L J	b029147c
-func/sub-30_task-1back_bold.nii.gz	2018-08-22T17:13:53	Achten^Eric L J	aaa359b3
